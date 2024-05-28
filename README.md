@@ -95,7 +95,7 @@ We have included data from the [Harry Potter Dataset](https://www.kaggle.com/dat
 [Google Slide](https://docs.google.com/presentation/d/19Ki-JT1panTx1nDKzkvIWd_HcwEqQLb6E1cy636BSvE/edit?usp=sharing)
 ## Conclusion
 
-This project provides a comprehensive analysis of the characters from the Harry Potter universe. By exploring and categorizing the characters, we gain valuable insights into their attributes and relationships. The analysis can be further extended to explore additional aspects and attributes of the characters.
+This project provides a comprehensive analysis of the characters from the Harry Potter universe. By exploring and categorizing the characters, we gain valuable insights into their attributes and relationships. The analysis can be further extended to explore additional aspects and attributes of the characters. 
 
 ## License
 
